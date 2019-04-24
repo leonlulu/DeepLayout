@@ -180,3 +180,17 @@ We analyze the weakness of this algorithm by 51 test images and the main problem
 * Improve the post processing procedure to get a better result.
 
 * Modify the code to run on Python3.
+
+## Statements ##
+
+* Sorry we can **not** make the source code public yet.
+
+* For more details, please refer to our paper:
+@inproceedings{li2018deeplayout,
+  title={DeepLayout: A Semantic Segmentation Approach to Page Layout Analysis},
+  author={Li, Yixin and Zou, Yajun and Ma, Jinwen},
+  booktitle={International Conference on Intelligent Computing},
+  pages={266--277},
+  year={2018},
+  organization={Springer}
+}
